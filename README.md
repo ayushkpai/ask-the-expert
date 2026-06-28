@@ -224,3 +224,9 @@
   Zambia/Lusaka
   Zimbabwe/Harare
   ```
+
+- To run the project
+
+  ```
+  uv run Code.py
+  ```

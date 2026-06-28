@@ -8,9 +8,13 @@
     git clone git@github.com:ayushkpai/ask-the-expert.git
     ```
 
-- Next install python 
+- Next install python and add dependencies
 
-    Also documented in dotfiles
+  Also documented in dotfiles
+
+  ```
+  uv add python-dotenv
+  ```  
 
 - Create .env
 
